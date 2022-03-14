@@ -1,0 +1,225 @@
+2022-03-13 10:25:54,334 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 10:25:54,347 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 10:25:54,349 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 10:25:56,435 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 10:25:56,444 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:56,446 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:56,450 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 10:25:56,451 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:56,452 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:58,135 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 10:25:58,136 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:58,136 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:58,137 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:58,137 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:58,138 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:58,138 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:58,138 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 10:25:58,139 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:58,141 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 10:25:59,724 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 10:25:59,724 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:59,725 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:59,725 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:59,726 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 10:25:59,727 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 11:05:33,274 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 11:05:33,284 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 11:05:33,287 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 11:05:35,858 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 11:05:35,872 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:35,874 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:35,874 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 11:05:35,875 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:35,875 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:37,167 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 11:05:37,168 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:37,168 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:37,169 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:37,169 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:37,170 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:37,170 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:37,171 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 11:05:37,171 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:37,172 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 11:05:38,751 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 11:05:38,752 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:38,752 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:38,753 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:38,753 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 11:05:38,754 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:05:00,662 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:05:00,672 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:05:00,676 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:05:02,717 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:05:02,733 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:02,736 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:02,741 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 additionTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:05:02,745 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:02,746 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:02,830 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:05:03,442 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:05:03,443 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:05:03,444 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:05:05,289 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:05:05,293 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:05,294 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:05,295 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:05:05,296 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:05,296 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:06,611 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:05:06,611 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:06,612 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:06,612 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:06,613 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:06,613 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:06,613 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:06,614 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:05:06,614 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:06,615 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:08,281 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:05:08,282 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:08,282 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:08,283 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:08,283 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:08,284 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:05:08,824 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:05:08,824 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:05:08,825 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:05:10,534 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:05:10,538 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:10,539 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:10,540 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:05:10,540 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:10,541 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:11,718 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:05:11,719 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:11,720 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:11,720 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:11,721 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:05:11,721 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:05:12,167 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:05:12,168 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:05:12,169 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:05:13,803 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:05:13,807 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:13,808 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:13,810 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 eri login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:05:13,814 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:13,816 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:05:13,819 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:08:28,039 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:08:28,050 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:08:28,052 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:08:29,832 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:08:29,845 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:29,846 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:29,849 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 additionTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:08:29,849 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:29,850 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:29,886 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:08:30,446 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:08:30,447 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:08:30,447 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:08:31,974 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:08:31,987 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:31,988 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:31,989 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:08:31,989 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:31,990 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:33,325 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:08:33,325 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:33,326 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:33,326 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:33,327 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:33,327 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:33,328 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:33,328 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:08:33,329 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:33,329 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:34,901 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:08:34,902 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:34,902 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:34,903 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:34,903 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:34,904 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:08:35,291 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:08:35,296 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:08:35,297 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:08:36,854 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:08:36,871 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:36,872 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:36,873 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:08:36,873 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:36,874 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:38,102 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:08:38,103 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:38,103 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:38,104 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:38,104 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:08:38,105 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:08:38,494 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:08:38,496 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:08:38,500 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:08:40,078 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:08:40,089 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:40,091 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:40,092 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 eri login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:08:40,093 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:40,095 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:08:40,103 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:14:10,723 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:14:10,735 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:14:10,739 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:14:12,694 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:14:12,723 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:12,741 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:12,744 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:14:12,747 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:12,749 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:14,024 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:14:14,025 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:14,026 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:14,026 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:14,027 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:14,028 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:14:46,970 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:14:46,981 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:14:46,984 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:14:48,763 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:14:48,770 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:48,772 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:48,774 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:14:48,775 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:48,776 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:49,986 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:14:49,986 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:49,987 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:49,987 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:49,988 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:49,988 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:49,989 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:49,989 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 Fill Form       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:14:49,990 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:49,990 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:51,643 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:14:51,643 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:51,644 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:51,645 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:51,645 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:51,646 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
+2022-03-13 16:14:52,065 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Setting up driver
+2022-03-13 16:14:52,066 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing Web Driver
+2022-03-13 16:14:52,066 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Found chrome as Browser
+2022-03-13 16:14:53,665 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Initializing web pages
+2022-03-13 16:14:53,683 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:53,684 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:53,688 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - $$$$$$$$$$$$$$$$$$$$$                 login       $$$$$$$$$$$$$$$$$$$$$$$$$
+2022-03-13 16:14:53,691 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:53,692 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - ****************************************************************************************
+2022-03-13 16:14:54,989 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2022-03-13 16:14:54,990 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:54,990 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:54,991 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:54,991 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - X
+2022-03-13 16:14:54,992 [NonParallelWorker] INFO CSharpProjectTemplate.main.utils.Logger - Closing driver
